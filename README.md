@@ -103,7 +103,8 @@ There was no effect on the scores by school type for both THS and other schools.
 
 ## Summary
 
-There were a few slight differences when removing the THS 9th graders including:
-- A slight decrease in the student grades for THS students meaning the 9th graders are excellent scorers.
-- On the other hand, an increase in the grades across the school district in spending ranges between $585 to $644 per student. This may be due to less competition between the students.
+There were a few changes when making the Thomas High School 9th graders scores NaN including:
 
+- A huge drop in the scores and passing percentages for the Thomas High School students. Mostly because they were still included in the school's count.
+- When their data was dropped, there was a big increase in scores but it was still slightly lower than when their grades were accounted for meaning the 9th graders are excellent scorers.
+- On the other hand, an increase in the grades across the school district in spending ranges between $585 to $644 per student. This may be due to less competition between the students.
